@@ -28,6 +28,7 @@
                                 <connections>
                                     <action selector="sliderValueChanged:" destination="vXZ-lx-hvc" eventType="primaryActionTriggered" id="aQ3-1C-HRo"/>
                                     <action selector="sliderValueChanged:" destination="vXZ-lx-hvc" eventType="touchDragInside" id="rkQ-R9-tch"/>
+                                    <action selector="sliderValueChanged:" destination="vXZ-lx-hvc" eventType="valueChanged" id="s4a-sR-c69"/>
                                     <outletCollection property="gestureRecognizers" destination="f7a-gf-WbF" appends="YES" id="xwL-Om-hkr"/>
                                 </connections>
                             </slider>
