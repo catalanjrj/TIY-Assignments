@@ -109,6 +109,7 @@
 				TargetAttributes = {
 					DFDE89311B8261D3008A63C3 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = DFHMFVHWS2;
 					};
 				};
 			};
