@@ -186,21 +186,21 @@
 		
 		
 		
-**9. The Executive**
+**9. YouTube**
 
-* `Intro Scene` 
-#
-	* `First Stage` 
+* `Home Page` 
 
-		* User Input to perform action
+	   * Tab video to Play video and show detail 
 
-		* Tap top of screen to punch/kick high
+		* Tap Trending to show trending videos
+
+		* Tap Accout to view account 
 
 		* Tap bottom of screen to punch/kick 
       
-		* Screen scrolls left to right as player progresses through stage
+		* Search videos with search bar
 
-		* STAGE CLEAR message when clear conditions are met
+		* Tap settings to view options
 
-		* Choose restart stage or continue to next stage 	
+			
 				
