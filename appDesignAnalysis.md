@@ -1,22 +1,35 @@
 ## App Design Analysis
 **Facebook Mobile App**  
 
-* If logged in- News Feed Tab ()
-* 
+* News Feed Tab 
+ 
    	* if not logged in sign in/ register page
    	* newsfeed scrolls to display posts
    	* click post to display detail
    	* click pictures to enlarge
+   	* newsfeed contains tab bar that switches betweeen 
+      newsfeed/Requests/messenger/notifications/more
+   * search bar to search profiles within facbook
+      
 
-* Select Tweet to view detail (navigation push)
+* Select Request tab to view friend requests accept
+	* accept new friend request 
+	* send new friend request
+	* remove people you may know
+	
 
-* Tap photo to enlarge (modal)
+* Select Messenger to view new messages
 
-	* Choose Profile (Tableview with push details)
+	* selecting tab opens messanger app if messenger app      is installed
+* Select notification tab to view notifications
+	* scroll through new and previous notifications
+	* select notifications to view detial
 
-	* Edit Profile (Tableview with inline edit)
+* Select more tab to view more options
+	* select option buttons to view detail
+	* select settings button to view settings
 
-	* Settings (modal Tableview)
+	
 
 **Second App**
 
