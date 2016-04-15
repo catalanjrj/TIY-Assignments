@@ -202,5 +202,23 @@
 
 		* Tap settings to view options
 
-			
-				
+		
+		
+**10. Adobe Photoshop Lightroom for iPhone**
+
+* `Lightroom Photos` 
+#
+	* `First Stage` 
+
+		* Add photos from user library
+
+		* Take Photo
+
+		* View photos in lightroom library
+      
+		* Sync to Lightroom Cloud
+
+		* Organize photos by options
+
+		* Creat Collection	
+						
