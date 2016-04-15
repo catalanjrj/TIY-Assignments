@@ -1,5 +1,5 @@
 ## App Design Analysis
-**Facebook Mobile App**  
+**1. Facebook Mobile App**  
 
 * `News Feed Tab 
  `
@@ -32,7 +32,7 @@
 
 	
 
-**Instagram**
+**2. Instagram**
 
 
 * `Login or Register (Modal)`
@@ -69,7 +69,7 @@
 	   			 		
 
 		
-**SnapChat**
+**3. SnapChat**
 
 * `Login or Register` 
 #
@@ -85,7 +85,7 @@
 
 		* Stories 		
 
-**Hearthstone: Heroes of Warcraft**
+**4. Hearthstone: Heroes of Warcraft**
 
 * `Login or Register` 
 #
@@ -106,7 +106,7 @@
 		 
 		* Tap Settings	
 
-**Swarm**
+**5. Swarm**
 
 * Login or Register (Modal)
 #
@@ -126,9 +126,9 @@
 		
 		
 		
-**The Executive**
+**6. The Executive**
 
-* Intro Scene 
+* `Intro Scene` 
 #
 	* `First Stage` 
 
@@ -145,11 +145,62 @@
 		* Choose restart stage or continue to next stage 	
 		
 		
+**7. hulu**
+
+* `Home Tab` 
+#
+	  * `Feauture Film `
+
+		* Scroll left to right SHOWS YOU WATCH
+		
+		* Tap Show to view details
+
+		* Search Shows
+      
+		* Tap feature film to play film
+
+		* STAGE CLEAR message when clear conditions are met
+
+		* Choose restart stage or continue to next stage 
+
+		
+			
+**8. Miitomo**
+
+* `Loading Screen` 
+#
+	* `My Room` 
+
+		* Tap character to interact 
+
+		* Tap Recent to show recent answered questions
+
+		* Tap My answers to show user answers 
+      
+		* Tap Friends to show user friends list
+
+		* Tap Shop to bring show Shop Menu
+
+		* Tap Menu to bring up main menu  	
+				
 		
 		
 		
-		
-		
-		
-		
-		
+**9. The Executive**
+
+* `Intro Scene` 
+#
+	* `First Stage` 
+
+		* User Input to perform action
+
+		* Tap top of screen to punch/kick high
+
+		* Tap bottom of screen to punch/kick 
+      
+		* Screen scrolls left to right as player progresses through stage
+
+		* STAGE CLEAR message when clear conditions are met
+
+		* Choose restart stage or continue to next stage 	
+				
