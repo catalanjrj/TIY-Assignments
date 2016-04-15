@@ -71,9 +71,9 @@
 		
 **SnapChat**
 
-* Login or Register (Modal)
+* `Login or Register` (Modal)
 #
-	* Take Snap (Tableview)
+	* `Take Snap` (Tableview)
 
 		* Take photo or video (navigation push)
 
@@ -87,9 +87,9 @@
 
 **Hearthstone: Heroes of Warcraft**
 
-* Login or Register (Modal)
+* `Login or Register` (Modal)
 #
-	* Main Menu (Tableview)
+	* `Main Menu` (Tableview)
 
 		* Tap Play button to start match(navigation push)
 
@@ -101,11 +101,48 @@
 
 		* Tap Open Packs button to view open packs menu (modal Tableview)
 		* Tap My Collection to view card collection menu
+		
 		* Tap Friends list
+		 
 		* Tap Settings	
 
+**Swarm**
+
+* Login or Register (Modal)
+#
+	* `Activity Feed` (Tableview)
+
+		* Search bar (navigation push)
+
+		* Tap check-in to view detail(modal)
+
+		* Check-IN (Tableview with push details)
+
+		* Leaderboards (Tableview with inline edit)
+
+		* Inbox
+
+		* Profile (modal Tableview)	
 		
 		
+		
+**The Executive**
+
+* Intro Scene (Modal)
+#
+	* `First Stage` (Tableview)
+
+		* User Input to perform action(navigation push)
+
+		* Tap top of screen to punch/kick high(modal)
+
+		* Tap bottom of screen to punch/kick (Tableview with push details)
+      
+		* Screen scrolls left to right as player progresses through stage(Tableview with inline edit)
+
+		* STAGE CLEAR message when clear conditions are met
+
+		* Choose restart stage or continue to next stage (modal Tableview)	
 		
 		
 		
