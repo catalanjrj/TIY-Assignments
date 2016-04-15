@@ -1,8 +1,9 @@
 ## App Design Analysis
 **Facebook Mobile App**  
 
- * News Feed Tab 
-  	* if not logged in sign in/ register page
+* `News Feed Tab 
+ `
+   	* if not logged in sign in/ register page
    	* newsfeed scrolls to display posts
    	* click post to display detail
    	* click pictures to enlarge
@@ -11,55 +12,107 @@
    * search bar to search profiles within facbook
       
 
-* Select Request tab to view friend requests accept
+* `Select Request tab to view friend requests accept`
 	* accept new friend request 
 	* send new friend request
 	* remove people you may know
 	
 
-* Select Messenger to view new messages
+* `Select Messenger to view new messages`
 
-	* selecting tab opens messanger app if messenger app      is installed
-* Select notification tab to view notifications
+	* selecting tab opens messanger app if messenger app is installed
+* `Select notification tab to view notifications`
 	* scroll through new and previous notifications
 	* select notifications to view detial
 
-* Select more tab to view more options
+* `Select more tab to view more options`
 	* select option buttons to view detail
 	* select settings button to view settings
 
+
 	
 
-**Second App**
+**Instagram**
 
 
-* Login or Register (Modal)
-#
-	* TweetList (Tableview)
+* `Login or Register (Modal)`
 
-		* Select Tweet to view detail (navigation push)
+  * `Instagram Photo Feed (Tableview)`
 
-		* Tap photo to enlarge (modal)
+     * Tap like button to Like Post(navigation push)
 
-		* Choose Profile (Tableview with push details)
+	  * Tap comment button to Comment on Post
+		  	- comment button opens comment(modal)
 
-		* Edit Profile (Tableview with inline edit)
+		* Tap Send button to send post to followed user (Tableview with push details)
+			- sends selected post to target 
+ * `Search and Browse tab`
+	   * Search bar and recently viewed 
+	   
+	   * Search bar diplays search options
+	   
+	   * Browser shows photos you may like 
+	   		* tap photo to view detail 
+ * `Photo Tab`
+ 		* adds photo or video from user library
+ 		* ases camera to take photo
+ 		* ases camera to record video 
+ * `Activity Tab`
+ 		* shows activity of users user follows
+ 		* shows other users who have liked users photo or have started following user
+ 		* click on other user to view profile
+ * `Profile Tab`
+ 		* Edit Profile
+ 		* View posted photos
+ 		* Tap photos to view details
+ 		* View user statistics 		 
+	   			 		
 
-		* Settings (modal Tableview)
-#
 		
-**Third App**
+**SnapChat**
 
 * Login or Register (Modal)
 #
-	* TweetList (Tableview)
+	* Take Snap (Tableview)
 
-		* Select Tweet to view detail (navigation push)
+		* Take photo or video (navigation push)
 
-		* Tap photo to enlarge (modal)
+		* Send photo or video to target user (modal)
 
-		* Choose Profile (Tableview with push details)
+		* Choose camera setting (flash,light mode, front or rear) (Tableview with push details)
 
-		* Edit Profile (Tableview with inline edit)
+		* Recieved Snaps  (Tableview with inline edit)
 
-		* Settings (modal Tableview)		
+		* Stories (modal Tableview)		
+
+**Hearthstone: Heroes of Warcraft**
+
+* Login or Register (Modal)
+#
+	* Main Menu (Tableview)
+
+		* Tap Play button to start match(navigation push)
+
+		* Tap Solo Adventure button to open Practice menu (modal)
+
+		* Tap Quests button to view daly quests (Tableview with push details)
+
+		* Tap Shop button to view shop menu (Tableview with inline edit)
+
+		* Tap Open Packs button to view open packs menu (modal Tableview)
+		* Tap My Collection to view card collection menu
+		* Tap Friends list
+		* Tap Settings	
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
