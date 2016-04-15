@@ -42,9 +42,9 @@
      * Tap like button to Like Post(navigation push)
 
 	  * Tap comment button to Comment on Post
-		  	- comment button opens comment(modal)
+		  	- comment button opens comment
 
-		* Tap Send button to send post to followed user (Tableview with push details)
+		* Tap Send button to send post to followed user 
 			- sends selected post to target 
  * `Search and Browse tab`
 	   * Search bar and recently viewed 
@@ -71,33 +71,33 @@
 		
 **SnapChat**
 
-* `Login or Register` (Modal)
+* `Login or Register` 
 #
-	* `Take Snap` (Tableview)
+	* `Take Snap` 
 
-		* Take photo or video (navigation push)
+		* Take photo or video 
 
-		* Send photo or video to target user (modal)
+		* Send photo or video to target user 
 
-		* Choose camera setting (flash,light mode, front or rear) (Tableview with push details)
+		* Choose camera setting (flash,light mode, front or rear) 
 
-		* Recieved Snaps  (Tableview with inline edit)
+		* Recieved Snaps  
 
-		* Stories (modal Tableview)		
+		* Stories 		
 
 **Hearthstone: Heroes of Warcraft**
 
-* `Login or Register` (Modal)
+* `Login or Register` 
 #
-	* `Main Menu` (Tableview)
+	* `Main Menu` 
 
-		* Tap Play button to start match(navigation push)
+		* Tap Play button to start match
 
-		* Tap Solo Adventure button to open Practice menu (modal)
+		* Tap Solo Adventure button to open Practice menu 
 
-		* Tap Quests button to view daly quests (Tableview with push details)
+		* Tap Quests button to view daly quests 
 
-		* Tap Shop button to view shop menu (Tableview with inline edit)
+		* Tap Shop button to view shop menu 
 
 		* Tap Open Packs button to view open packs menu (modal Tableview)
 		* Tap My Collection to view card collection menu
@@ -118,31 +118,31 @@
 
 		* Check-IN (Tableview with push details)
 
-		* Leaderboards (Tableview with inline edit)
+		* Leaderboards 
 
 		* Inbox
 
-		* Profile (modal Tableview)	
+		* Profile 	
 		
 		
 		
 **The Executive**
 
-* Intro Scene (Modal)
+* Intro Scene 
 #
-	* `First Stage` (Tableview)
+	* `First Stage` 
 
-		* User Input to perform action(navigation push)
+		* User Input to perform action
 
-		* Tap top of screen to punch/kick high(modal)
+		* Tap top of screen to punch/kick high
 
-		* Tap bottom of screen to punch/kick (Tableview with push details)
+		* Tap bottom of screen to punch/kick 
       
-		* Screen scrolls left to right as player progresses through stage(Tableview with inline edit)
+		* Screen scrolls left to right as player progresses through stage
 
 		* STAGE CLEAR message when clear conditions are met
 
-		* Choose restart stage or continue to next stage (modal Tableview)	
+		* Choose restart stage or continue to next stage 	
 		
 		
 		
