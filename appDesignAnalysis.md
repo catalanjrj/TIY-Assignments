@@ -1,9 +1,8 @@
 ## App Design Analysis
 **Facebook Mobile App**  
 
-* News Feed Tab 
- 
-   	* if not logged in sign in/ register page
+ * News Feed Tab 
+  	* if not logged in sign in/ register page
    	* newsfeed scrolls to display posts
    	* click post to display detail
    	* click pictures to enlarge
