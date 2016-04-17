@@ -245,19 +245,13 @@
 		
 **12. NETFLIX**
 
-* `Account/Sign In` 
+* `Account/Sign In` (modal)
 #
-	* `Home` 
+	* `Home` (table view)
 
-		* Tap show/movie to show more detail
+		* Tap show/movie to show more detail (push segue)
 
 		* search movies/shows
 
-		* Tap bottom of screen to punch/kick 
-      
-		* Screen scrolls left to right as player progresses through stage
-
-		* STAGE CLEAR message when clear conditions are met
-
-		* Choose restart stage or continue to next stage 	
+		
 				
