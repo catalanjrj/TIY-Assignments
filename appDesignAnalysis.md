@@ -37,11 +37,11 @@
 
 * `Login or Register (Modal)`
 
-  * `Instagram Photo Feed (Tableview)`
+  * `Instagram Photo Feed`(Tab bar controller)
 
      * Tap like button to Like Post(navigation push)
 
-	  * Tap comment button to Comment on Post
+	  * Tap comment button to Comment on Post (Push Segue)
 		  	- comment button opens comment
 
 		* Tap Send button to send post to followed user 
@@ -49,19 +49,19 @@
  * `Search and Browse tab`
 	   * Search bar and recently viewed 
 	   
-	   * Search bar diplays search options
+	   * Search bar diplays search options(collection view)
 	   
 	   * Browser shows photos you may like 
 	   		* tap photo to view detail 
- * `Photo Tab`
+ * `Photo Tab`(toolbar item)
  		* adds photo or video from user library
  		* ases camera to take photo
  		* ases camera to record video 
- * `Activity Tab`
+ * `Activity Tab`(Table View)
  		* shows activity of users user follows
  		* shows other users who have liked users photo or have started following user
  		* click on other user to view profile
- * `Profile Tab`
+ * `Profile Tab`(scroll view)
  		* Edit Profile
  		* View posted photos
  		* Tap photos to view details
@@ -87,9 +87,9 @@
 
 **4. Hearthstone: Heroes of Warcraft**
 
-* `Login or Register` 
+* `Login or Register` (modal)
 #
-	* `Main Menu` 
+	* `Main Menu` (modal)
 
 		* Tap Play button to start match
 
