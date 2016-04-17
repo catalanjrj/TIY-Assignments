@@ -1,8 +1,8 @@
 ## App Design Analysis
 **1. Facebook Mobile App**  
 
-* `News Feed Tab 
- `
+* `News Feed Tab
+ `(Tab Bar Controller)
    	* if not logged in sign in/ register page
    	* newsfeed scrolls to display posts
    	* click post to display detail
@@ -12,20 +12,20 @@
    * search bar to search profiles within facbook
       
 
-* `Select Request tab to view friend requests accept`
+* `Select Request tab to view friend requests accept`(Table View Controller)
 	* accept new friend request 
 	* send new friend request
 	* remove people you may know
 	
 
-* `Select Messenger to view new messages`
+* `Select Messenger to view new messages`(Table View Controller)
 
 	* selecting tab opens messanger app if messenger app is installed
-* `Select notification tab to view notifications`
+* `Select notification tab to view notifications`(Table Viw Controller)
 	* scroll through new and previous notifications
 	* select notifications to view detial
 
-* `Select more tab to view more options`
+* `Select more tab to view more options`(Table View Controller)
 	* select option buttons to view detail
 	* select settings button to view settings
 
@@ -220,5 +220,44 @@
 
 		* Organize photos by options
 
-		* Creat Collection	
-						
+		* Creat Collection
+
+		
+			
+**11. Google Cast**
+
+* `Sign in` 
+#
+	* `Home` 
+
+		* Search movies and shows
+
+		* Tap show to open in target app
+
+		* Tap Devices to add and manage devices 
+      
+		* Tap Get Apps to show compatable apps
+
+		* STAGE CLEAR message when clear conditions are met
+
+		* Choose restart stage or continue to next stage 
+
+		
+**12. NETFLIX**
+
+* `Account/Sign In` 
+#
+	* `Home` 
+
+		* Tap show/movie to show more detail
+
+		* search movies/shows
+
+		* Tap bottom of screen to punch/kick 
+      
+		* Screen scrolls left to right as player progresses through stage
+
+		* STAGE CLEAR message when clear conditions are met
+
+		* Choose restart stage or continue to next stage 	
+				
