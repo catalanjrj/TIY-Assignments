@@ -3,7 +3,7 @@
 
 * `News Feed Tab
  `(Tab Bar Controller)
-   	* if not logged in sign in/ register page
+   	* if not logged in sign in/ register page  (modal)
    	* newsfeed scrolls to display posts
    	* click post to display detail
    	* click pictures to enlarge
@@ -35,7 +35,7 @@
 **2. Instagram**
 
 
-* `Login or Register (Modal)`
+* `Login or Register` (Modal)
 
   * `Instagram Photo Feed`(Tab bar controller)
 
@@ -118,7 +118,7 @@
 
 		* Check-IN (Tableview with push details)
 
-		* Leaderboards 
+		* Leaderboards (table view)
 
 		* Inbox
 
@@ -167,9 +167,9 @@
 			
 **8. Miitomo**
 
-* `Loading Screen` 
+* `Loading Screen` (modal)
 #
-	* `My Room` 
+	* `My Room` (tab bar controller)
 
 		* Tap character to interact 
 
@@ -188,7 +188,7 @@
 		
 **9. YouTube**
 
-* `Home Page` 
+* `Home Page` (Table view controller)
 
 	   * Tab video to Play video and show detail 
 
@@ -226,9 +226,9 @@
 			
 **11. Google Cast**
 
-* `Sign in` 
+* `Sign in` (modal)
 #
-	* `Home` 
+	* `Home` (table view controller)
 
 		* Search movies and shows
 
