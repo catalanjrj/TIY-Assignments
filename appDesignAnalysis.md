@@ -21,12 +21,12 @@
 * `Select Messenger to view new messages`(Table View Controller)
 
 	* selecting tab opens messanger app if messenger app is installed
-* `Select notification tab to view notifications`(Table Viw Controller)
+* `Select notification tab to view notifications`(Table view Controller)
 	* scroll through new and previous notifications
-	* select notifications to view detial
+	* select notifications to view detial (push)
 
 * `Select more tab to view more options`(Table View Controller)
-	* select option buttons to view detail
+	* select option buttons to view detail(push)
 	* select settings button to view settings
 
 
@@ -55,8 +55,8 @@
 	   		* tap photo to view detail 
  * `Photo Tab`(toolbar item)
  		* adds photo or video from user library
- 		* ases camera to take photo
- 		* ases camera to record video 
+ 		* uses camera to take photo
+ 		* uses camera to record video 
  * `Activity Tab`(Table View)
  		* shows activity of users user follows
  		* shows other users who have liked users photo or have started following user
@@ -71,9 +71,9 @@
 		
 **3. SnapChat**
 
-* `Login or Register` 
+* `Login or Register` (modal)
 #
-	* `Take Snap` 
+	* `Take Snap` ()
 
 		* Take photo or video 
 
@@ -128,9 +128,9 @@
 		
 **6. The Executive**
 
-* `Intro Scene` 
+* `Intro Scene` (modal)
 #
-	* `First Stage` 
+	* `First Stage` (scroll view)
 
 		* User Input to perform action
 
@@ -140,14 +140,14 @@
       
 		* Screen scrolls left to right as player progresses through stage
 
-		* STAGE CLEAR message when clear conditions are met
+		* STAGE CLEAR message when clear conditions are met(modal table view)
 
 		* Choose restart stage or continue to next stage 	
 		
 		
 **7. hulu**
 
-* `Home Tab` 
+* `Home Tab` (modal)(table view)
 #
 	  * `Feauture Film `
 
