@@ -75,15 +75,15 @@
 #
 	* `Take Snap` ()
 
-		* Take photo or video 
+		* Take photo or video (modal)
 
-		* Send photo or video to target user 
+		* Send photo or video to target user (push)
 
 		* Choose camera setting (flash,light mode, front or rear) 
 
-		* Recieved Snaps  
+		* Recieved Snaps (Table View) 
 
-		* Stories 		
+		* Stories (Table view)	
 
 **4. Hearthstone: Heroes of Warcraft**
 
@@ -91,7 +91,7 @@
 #
 	* `Main Menu` (modal)
 
-		* Tap Play button to start match
+		* Tap Play button to start match 
 
 		* Tap Solo Adventure button to open Practice menu 
 
@@ -132,17 +132,17 @@
 #
 	* `First Stage` (scroll view)
 
-		* User Input to perform action
+		* User Input to perform action (tap/longpress/swipe)
 
-		* Tap top of screen to punch/kick high
+		* Tap top of screen to punch/kick high (tap)
 
-		* Tap bottom of screen to punch/kick 
+		* Tap bottom of screen to punch/kick (tap)
       
-		* Screen scrolls left to right as player progresses through stage
+		* Screen scrolls left to right as player progresses through stage (scrolling view)
 
 		* STAGE CLEAR message when clear conditions are met(modal table view)
 
-		* Choose restart stage or continue to next stage 	
+		* Choose restart stage or continue to next stage(push navigation) 	
 		
 		
 **7. hulu**
@@ -173,7 +173,7 @@
 
 		* Tap character to interact 
 
-		* Tap Recent to show recent answered questions
+		* Tap Recent to show recent answered questions ()
 
 		* Tap My answers to show user answers 
       
@@ -190,15 +190,13 @@
 
 * `Home Page` (Table view controller)
 
-	   * Tab video to Play video and show detail 
+	   * Tab video to Play video and show detail ( table view) 
 
-		* Tap Trending to show trending videos
+		* Tap Trending to show trending videos (collection view)
 
-		* Tap Accout to view account 
+		* Tap Account to view account (table view) 
 
-		* Tap bottom of screen to punch/kick 
-      
-		* Search videos with search bar
+        * Search videos with search bar
 
 		* Tap settings to view options
 
@@ -210,13 +208,13 @@
 #
 	* `First Stage` 
 
-		* Add photos from user library
+		* Add photos from user library(collection view)
 
-		* Take Photo
+		* Take Photo (modal)
 
-		* View photos in lightroom library
+		* View photos in lightroom library (table view)
       
-		* Sync to Lightroom Cloud
+		* Sync to Lightroom Cloud ()
 
 		* Organize photos by options
 
@@ -230,9 +228,9 @@
 #
 	* `Home` (table view controller)
 
-		* Search movies and shows
+		* Search movies and shows 
 
-		* Tap show to open in target app
+		* Tap show to open in target app(navigation push)
 
 		* Tap Devices to add and manage devices 
       
